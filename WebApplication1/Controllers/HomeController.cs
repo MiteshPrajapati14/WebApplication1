@@ -20,7 +20,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(); //Mitesh you did changes for the git
         }
 
         public IActionResult Privacy()
